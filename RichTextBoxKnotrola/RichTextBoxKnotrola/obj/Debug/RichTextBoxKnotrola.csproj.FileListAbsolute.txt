@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\RichTextBoxKnotrola\RichTextBoxKnotrola\bin\Debug\RichTextBoxKnotrola.exe.config
+C:\Users\ucenik\source\repos\RichTextBoxKnotrola\RichTextBoxKnotrola\bin\Debug\RichTextBoxKnotrola.exe
+C:\Users\ucenik\source\repos\RichTextBoxKnotrola\RichTextBoxKnotrola\bin\Debug\RichTextBoxKnotrola.pdb
+C:\Users\ucenik\source\repos\RichTextBoxKnotrola\RichTextBoxKnotrola\obj\Debug\RichTextBoxKnotrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\RichTextBoxKnotrola\RichTextBoxKnotrola\obj\Debug\RichTextBoxKnotrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\RichTextBoxKnotrola\RichTextBoxKnotrola\obj\Debug\RichTextBoxKnotrola.Form1.resources
+C:\Users\ucenik\source\repos\RichTextBoxKnotrola\RichTextBoxKnotrola\obj\Debug\RichTextBoxKnotrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\RichTextBoxKnotrola\RichTextBoxKnotrola\obj\Debug\RichTextBoxKnotrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\RichTextBoxKnotrola\RichTextBoxKnotrola\obj\Debug\RichTextBoxKnotrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\RichTextBoxKnotrola\RichTextBoxKnotrola\obj\Debug\RichTextBoxKnotrola.exe
+C:\Users\ucenik\source\repos\RichTextBoxKnotrola\RichTextBoxKnotrola\obj\Debug\RichTextBoxKnotrola.pdb
